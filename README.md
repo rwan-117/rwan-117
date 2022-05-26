@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rwan-117
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Azure DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rosy Wan
 
 <!---
 rwan-117/rwan-117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
